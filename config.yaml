@@ -1,12 +1,12 @@
 baseurl: https://example.com
 languageCode: en-us
 paginate: 5
-title: GIE Joel
+title: GIE
 
 languages:
     en:
         languageName: English
-        title: GIE Joel
+        title: GIE
         description: Example description
         weight: 1
     zh-cn:
